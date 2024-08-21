@@ -1,0 +1,17 @@
+@media only screen and (max-width:500px) 
+{
+    #AI-head
+    {
+        text-align: center;
+        font-size: 35px;
+    }
+    #AI-head2
+    {
+        text-align: center;
+    }
+    #button-head,#button-head-1
+    {
+        width: 150px;
+        height: 50px;
+    }
+}
